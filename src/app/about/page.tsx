@@ -22,13 +22,13 @@ export default function About() {
                     About Me
                 </h1>
                 <p className="font-medium text-justify text-sm md:text-base">
-                    Hi, I'm Faria Usman—a passionate developer, designer, and creator with a vision to build innovative solutions.
+                    Hi, I&apos;m Faria Usman a passionate developer, designer, and creator with a vision to build innovative solutions.
                     With years of experience in coding and designing, I have honed my skills to deliver high-quality and user-friendly
                     projects. I believe in continuous learning, collaboration, and pushing boundaries to achieve excellence.
                 </p>
                 <p className="font-medium text-justify text-sm md:text-base">
-                    When I'm not coding or designing, I enjoy exploring new technologies, reading about industry trends, and sharing
-                    my knowledge with others. Let's connect and create something amazing together!
+                    When I&apos;m not coding or designing, I enjoy exploring new technologies, reading about industry trends, and sharing
+                    my knowledge with others. Let&apos;s connect and create something amazing together!
                 </p>
                 <button className="w-[200px] h-[50px] md:w-[237px] md:h-[66px] bg-black text-white text-sm md:text-base mx-auto md:mx-0">
                     Learn More
